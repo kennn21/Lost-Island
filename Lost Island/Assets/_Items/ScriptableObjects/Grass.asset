@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  itemName: Grass
+  itemDescription: 
+  type: 2
+  id: 29
+  icon: {fileID: 21300000, guid: eccb55523118f4c489b6f55711b664dc, type: 3}
+  prefab: {fileID: 1912206762362666, guid: e4d578e8f1ae25d45b6ab5f2118a96b0, type: 3}
+  timeToGather: 0.1
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 0.5, y: 0.5, z: 0.5}
+  maxStackCount: 100
+  previewPrefab: {fileID: 1952845738392202, guid: 84a77c0f30b7f4441be07f1f93941bde, type: 3}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 1
+  gridSize: {x: 0, y: 0, z: 0}
+  rots:
+  - {x: -90, y: 0, z: 0}
+  - {x: -90, y: 90, z: 0}
+  - {x: -90, y: 180, z: 0}
+  - {x: -90, y: 270, z: 0}
+  achievementNumber: -1
+  calories: 0

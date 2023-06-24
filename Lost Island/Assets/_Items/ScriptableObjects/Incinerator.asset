@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: Incinerator
+  m_EditorClassIdentifier: 
+  itemName: Incinerator
+  itemDescription: Permanently destroy items.
+  type: 2
+  id: 31
+  icon: {fileID: 21300000, guid: e7e772fdcd608544cae470b5e6ad93af, type: 3}
+  prefab: {fileID: 1552388535253870, guid: 29e13cd9919fc8a4c9a68e931d746ebe, type: 3}
+  timeToGather: 0.25
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 1, y: 1, z: 1}
+  maxStackCount: 1
+  previewPrefab: {fileID: 1289028692160290, guid: df98202ee45b50a44ab21b2b95afe583, type: 3}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 0
+  gridSize: {x: 0, y: 0, z: 0}
+  rots:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 90, z: 0}
+  - {x: 0, y: 180, z: 0}
+  - {x: 0, y: 270, z: 0}
+  achievementNumber: -1
+  calories: 0

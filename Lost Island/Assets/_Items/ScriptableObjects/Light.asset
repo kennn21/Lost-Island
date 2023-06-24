@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  itemName: Light
+  itemDescription: 
+  type: 2
+  id: 35
+  icon: {fileID: 21300000, guid: 63d71f013bb2b1942a7a9d721d76b14c, type: 3}
+  prefab: {fileID: 1312209496639844, guid: a12cde8070de32242a6669e70f5b97fd, type: 3}
+  timeToGather: 0.25
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 1, y: 1, z: 1}
+  maxStackCount: 0
+  previewPrefab: {fileID: 1081290273228212, guid: 41b96f519747acb4f93537db8a31fdf9, type: 3}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 0
+  gridSize: {x: 0, y: 0, z: 0}
+  rots: []
+  achievementNumber: -1
+  calories: 0

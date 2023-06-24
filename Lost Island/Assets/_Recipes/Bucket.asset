@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb2a7a441b45584ebdd59f820231b0e, type: 3}
+  m_Name: Bucket
+  m_EditorClassIdentifier: 
+  inputs:
+  - {fileID: 11400000, guid: 221124a2341142445ac06a74d0443d60, type: 2}
+  amounts: 04000000
+  replacementItems: []
+  replacementItemAmounts: 
+  output: {fileID: 11400000, guid: f02312205082cc746bf5976adce58d91, type: 2}
+  outputAmount: 1
+  categories: 02000000

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb2a7a441b45584ebdd59f820231b0e, type: 3}
+  m_Name: Pickaxe_Stone
+  m_EditorClassIdentifier: 
+  inputs:
+  - {fileID: 11400000, guid: e605b7711cb22d140805767d6575e6ca, type: 2}
+  - {fileID: 11400000, guid: cb2b8f9de15633642b25d8a3e5609e34, type: 2}
+  amounts: 0200000002000000
+  replacementItems: []
+  replacementItemAmounts: 
+  output: {fileID: 11400000, guid: 3c29dfed7a7c42d4ca5332dc2fd39c83, type: 2}
+  outputAmount: 1
+  categories: 03000000

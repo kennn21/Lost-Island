@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: Bucket
+  m_EditorClassIdentifier: 
+  itemName: Bucket
+  itemDescription: Fill it with water or use it as decoration!
+  type: 0
+  id: 32
+  icon: {fileID: 21300000, guid: 0b463bb90b5fb424abcbd70d84e0a237, type: 3}
+  prefab: {fileID: 1866602517762588, guid: 8ab3016be8d000144b2d098465c24525, type: 3}
+  timeToGather: 0.25
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 1, y: 1, z: 1}
+  maxStackCount: 20
+  previewPrefab: {fileID: 0}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 0
+  gridSize: {x: 0, y: 0, z: 0}
+  rots: []
+  achievementNumber: -1
+  calories: 0

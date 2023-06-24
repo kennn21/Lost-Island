@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: Door
+  m_EditorClassIdentifier: 
+  itemName: Door
+  itemDescription: 
+  type: 2
+  id: 24
+  icon: {fileID: 21300000, guid: bb0e22ebb71b3884c957275f37c02794, type: 3}
+  prefab: {fileID: 1685766804058822, guid: bee2ed6aeed54e04ab10eabdd49360d5, type: 3}
+  timeToGather: 0.25
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 0.25, y: 0.25, z: 0.25}
+  maxStackCount: 8
+  previewPrefab: {fileID: 1178550092203778, guid: 1bcebc39c131638488b5ebfdded80de9, type: 3}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 0
+  gridSize: {x: 0.5, y: 0.25, z: 0.5}
+  rots:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 90, z: 0}
+  - {x: 0, y: 180, z: 0}
+  - {x: 0, y: 270, z: 0}
+  achievementNumber: 2
+  calories: 0

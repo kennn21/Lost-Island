@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d53d9d2779c4ebd4c9bc6456af37d1cc, type: 3}
+  m_Name: CopperOre
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1947450143509860, guid: 78341bb0c31c4f54493eba09b10f7179, type: 3}
+  id: 0
+  resourceItems:
+  - {fileID: 11400000, guid: d332c4c202197f849af660fcbc44dc16, type: 2}
+  chances:
+  - 1
+  maxGathers: 8
+  gatherTime: 15
+  infiniteGathers: 0

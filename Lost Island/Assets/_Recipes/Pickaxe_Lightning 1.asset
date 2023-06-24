@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb2a7a441b45584ebdd59f820231b0e, type: 3}
+  m_Name: Pickaxe_Lightning 1
+  m_EditorClassIdentifier: 
+  inputs:
+  - {fileID: 11400000, guid: d9a81fc8673f8c04fa7ec107eb5ca8d4, type: 2}
+  - {fileID: 11400000, guid: 00dd8405c3cf190449d564d4e511a9f3, type: 2}
+  amounts: 0100000002000000
+  replacementItems: []
+  replacementItemAmounts: 
+  output: {fileID: 11400000, guid: 314a85ebbf517fa4ea0de6c787451e19, type: 2}
+  outputAmount: 1
+  categories: 03000000

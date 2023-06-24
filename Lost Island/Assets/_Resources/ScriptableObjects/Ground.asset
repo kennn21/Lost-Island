@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d53d9d2779c4ebd4c9bc6456af37d1cc, type: 3}
+  m_Name: Ground
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  id: 0
+  resourceItems:
+  - {fileID: 11400000, guid: de8ae7d39448b624eb7111ec5c2219a0, type: 2}
+  - {fileID: 11400000, guid: 50ee8909b487ecc40b59d452afd96f4d, type: 2}
+  chances:
+  - 1
+  - 0.33
+  maxGathers: 0
+  gatherTime: 1
+  infiniteGathers: 1

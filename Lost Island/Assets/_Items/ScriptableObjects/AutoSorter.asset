@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: AutoSorter
+  m_EditorClassIdentifier: 
+  itemName: Auto-Sorter
+  itemDescription: Automatically sorts out selected item
+  type: 2
+  id: 27
+  icon: {fileID: 21300000, guid: 53a0e3e55c0992e4ebc0cbc31799cbc8, type: 3}
+  prefab: {fileID: 1199995106471088, guid: d3442cc9c36521145bdecf08deb166b0, type: 3}
+  timeToGather: 1
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 1, y: 1, z: 1}
+  maxStackCount: 20
+  previewPrefab: {fileID: 1152825630384642, guid: 28040589f742b4c4fabd235fe1127503, type: 3}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 0
+  gridSize: {x: 0.5, y: 0.5, z: 0.5}
+  rots:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 90, z: 0}
+  - {x: 0, y: 180, z: 0}
+  - {x: 0, y: 270, z: 0}
+  achievementNumber: -1
+  calories: 0

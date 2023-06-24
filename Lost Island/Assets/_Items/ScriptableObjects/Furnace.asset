@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a132de59f052e24fa506ed982621e0d, type: 3}
+  m_Name: Furnace
+  m_EditorClassIdentifier: 
+  itemName: Furnace
+  itemDescription: Smelt items
+  type: 2
+  id: 6
+  icon: {fileID: 21300000, guid: 49c74c6ec6f6aa947b7592bcfc673add, type: 3}
+  prefab: {fileID: 1039647288645722, guid: 09ffc11aa8e95f14189efd5d1b7ac51f, type: 3}
+  timeToGather: 10
+  handRotation: {x: 0, y: 0, z: 0}
+  handScale: {x: 1, y: 1, z: 1}
+  maxStackCount: 8
+  previewPrefab: {fileID: 1279076705729118, guid: 19e194416f636d84fbdfbf4a4bd6a778, type: 3}
+  speed: 0
+  gatherAmount: 0
+  power: 0
+  fuel: 0
+  smeltItem: {fileID: 0}
+  alignToNormal: 0
+  gridSize: {x: 0.5, y: 0.5, z: 0.5}
+  rots:
+  - {x: -90, y: 0, z: 0}
+  - {x: -90, y: 0, z: 90}
+  - {x: -90, y: 0, z: 180}
+  - {x: -90, y: 0, z: 270}
+  achievementNumber: 6
+  calories: 0
